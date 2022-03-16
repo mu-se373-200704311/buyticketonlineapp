@@ -1,1 +1,1 @@
-Restaurant Table Booking App - Tugay İgüs - 200704311
+App for buying movie tickets online - Tugay İgüs - 200704311
